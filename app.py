@@ -1,5 +1,5 @@
 # save this as app.py
-from flask import Flask, escape, request, render_template
+from flask import Flask,request, render_template
 import pickle
 import numpy as np
 
